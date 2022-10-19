@@ -1,0 +1,19 @@
+body {
+    padding: 20px;
+    background-color: rgb(234, 234, 234);
+}
+
+.text-link {
+    color: inherit;
+    text-decoration: inherit;
+} 
+
+.list-group-item{
+    background-color: rgb(168, 197, 197);
+}
+
+#logo{
+    max-width: 22px;
+    margin-right: 10px;
+    border-radius:150px;
+}
