@@ -32,7 +32,7 @@ export const ContactoPage = () => {
               </li>
               <li className="list-group-item">
                 <ion-icon name="logo-github"></ion-icon>
-                <Link className ='text-link' onClick={onNavigate}> &nbsp; https://github.com/Malpar26</Link>
+                <Link className ='text-link' onClick={onNavigate}> &nbsp; github.com/Malpar26</Link>
               </li>
               <li className="list-group-item"><ion-icon name="home-outline"></ion-icon>&nbsp; Grupo Parque Atlántico nº5 2º7 Sevilla</li>
               <li className="list-group-item">

@@ -21,7 +21,7 @@ export const PerfilPage = () => {
 
               <div className="mt-5 container">
                 <h3><u>Sobre mí:</u></h3>
-                <p className="mt-3">Desarrollador Web especializado en HTML, CSS, JavaScript y especialmente en React, librería de la que tengo como objetivo seguir profundizando aún más en su conocimiento.
+                <p className="mt-3">Desarrollador Web especializado en HTML, CSS, JavaScript y especialmente en React, librería en la que tengo como objetivo seguir profundizando aun mas en su conocimiento.
                 Me gusta estar al corriente de la vanguardia tecnológica, tanto si se trata de las nuevas tecnologías que se van creando como de las actualizaciones de las ya existentes.
                 Entre mis aptitudes cabe destacar la capacidad para trabajar en equipo, la facilidad de aprendizaje y el compromiso para cumplir con los objetivos.</p><br/>
               </div>
@@ -64,6 +64,7 @@ export const PerfilPage = () => {
                     <ul>
                       <li>Java</li>
                       <li>C#</li>
+                      <li>PHP</li>
                       <li>XML</li>
                     </ul>
                     
